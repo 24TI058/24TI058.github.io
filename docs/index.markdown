@@ -13,4 +13,4 @@ GitHub Pagesを用いた講義まとめサイトです。
 
 ## 講義まとめ
 
-[ソフトウェア工学2026まとめ](/docs/softwareEng2026/
+[ソフトウェア工学2026まとめ](softwareEng2026.html)
