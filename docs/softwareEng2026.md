@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "ソフトウェア工学2026まとめ"
-permalink: /softwareEng2026/
 ---
 
 # ソフトウェア工学2026まとめ
